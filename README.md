@@ -80,4 +80,4 @@ This repository contains the results of the security assessments performed on th
 
 - `openvas_report.pdf` - OpenVAS scan report in PDF format.
 - `nikto_report.html` - Nikto scan report in HTML format.
-- `banner_screenshot.png` - Screenshot of the banner grabbed using netcat.
+- `banner_scrrenshot.png` - Screenshot of the banner grabbed using netcat.
